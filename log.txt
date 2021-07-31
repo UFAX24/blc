@@ -1,0 +1,26 @@
+https://medium.com/ NOT FOUND
+https://github.com/ NOT FOUND
+*.https://github.io/ failed to donwload link. Error code 1. Response: 
+https://ufax24.github.io/SPORTS/ OK
+*.https://facebook.com/ failed to donwload link. Error code 1. Response: 
+*.https://youtube.com/ failed to donwload link. Error code 1. Response: 
+*.https://web.app/ failed to donwload link. Error code 1. Response: 
+https://ufax24-960eb.web.app/ OK
+https://rsci.app.link/ NOT FOUND
+https://ufax24board.web.app/ OK
+https://ufax24-960eb.web.app/ OK
+https://ufax24.github.io/ufax24.com-001/ NOT FOUND
+https://ufax24.github.io/SPORTS/ OK
+https://github.com/srsuper/Rodmay/issues/1 OK
+https://link.medium.com/TLdPphvEgib/ OK
+https://link.medium.com/9hN9k5RPgib/ OK
+*.https://link.medium.com/ failed to donwload link. Error code 1. Response: 
+*.crawl.baidu.com failed to donwload link. Error code 4. Response: 
+*.crawl.baidu.jp failed to donwload link. Error code 4. Response: 
+*.search.msn.com failed to donwload link. Error code 4. Response: 
+*.google.com failed to donwload link. Error code 4. Response: 
+*.googlebot.com failed to donwload link. Error code 4. Response: 
+*.crawl.yahoo.net failed to donwload link. Error code 4. Response: 
+*.yandex.ru failed to donwload link. Error code 4. Response: 
+*.yandex.net failed to donwload link. Error code 4. Response: 
+*.yandex.com failed to donwload link. Error code 4. Response: 
